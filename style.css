@@ -1,7 +1,7 @@
 body {
     background-color: #6cf85f;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    place-items: center;
+    justify content: center;
     height: 100vh;
     color: #116909;
     font-size: large;
